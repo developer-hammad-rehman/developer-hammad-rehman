@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Metaverse , Ai , Framework**
 
-- 💬 Ask me about **Nextjs , Typescript**
+- 💬 Ask me about **Nextjs , Typescript , Python , Fastapi , Openai , PostgresSql**
 
 - 📫 How to reach me **hammadrehman208@gmail.com**
 
-- 📄 Know about my experiences [My experience is 9 years](My experience is 9 years)
+- 📄 Know about my experiences [My experience is 1 years](My experience is 1 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

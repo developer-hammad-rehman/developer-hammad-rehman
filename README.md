@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hammadrehman208@gmail.com**
 
-- 📄 Know about my experiences [My experience is 1 years](My experience is 1 years)
+- 📄 Know about my experiences My experience is 1 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

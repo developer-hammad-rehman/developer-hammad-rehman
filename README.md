@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Generative AI Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-hammad-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="developer-hammad-rehman" /> </p>
 
 - 🌱 I’m currently learning **Metaverse , Ai , Framework**
 
-- 💬 Ask me about **Nextjs , Typescript , Python , Fastapi , Openai , PostgresSql**
+- 💬 Ask me about **Nextjs , Typescript , Python , Fastapi , Openai , PostgresSql , Docker , Microservice , Azure and Generative AI**
 
 - 📫 How to reach me **hammadrehman208@gmail.com**
 

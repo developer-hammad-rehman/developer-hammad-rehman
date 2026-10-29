@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
 <h3 align="center">A passionate Full Stack Developer & Generative AI Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-hammad-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="developer-hammad-rehman" /> </p>
-
 - 🌱 I'm currently learning **Metaverse, AI Frameworks & Advanced Cloud Architecture**
 - 💬 Ask me about **Next.js, TypeScript, Node.js, Express.js, Python, FastAPI, OpenAI, PostgreSQL, MongoDB, Docker, Microservices, AWS (EC2, S3, WAF), Cloudflare, Website Security and Generative AI**
 - 🚀 I build **AI-powered applications** — integrating LLMs into products and creating **AI automation workflows**
